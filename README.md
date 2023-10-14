@@ -77,7 +77,7 @@
 <br>
 
 <p>Feel free to reference and connect with us through our GitHub profiles, provided below for your convenience.</p>
-<p><strong>Dharshan's Github:</strong> <a href="github.com/iDharshan">github.com/iDharshan</a></p>
-<p><strong>Tejasram's Github:</strong> <a href="github.com/tejasram2003">github.com/tejasram2003</a></p>
+<p><strong>Dharshan's Github:</strong> <a href="https://github.com/iDharshan">github.com/iDharshan</a></p>
+<p><strong>Tejasram's Github:</strong> <a href="https://github.com/tejasram2003">github.com/tejasram2003</a></p>
 
 </body>
