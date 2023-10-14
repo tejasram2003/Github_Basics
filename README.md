@@ -1,5 +1,5 @@
 <body>
-<h1>MASTERING GITHUB:</h1>
+<h1>MASTERING GITHUB</h1>
 <h2>FROM BASICS TO A STANDOUT PROFILE</h2>
 
 <p>This repository consists instructions and references to all the points mentioned in the <a src="">Crash Course on Github by the Odyssey Club.</a></p>
