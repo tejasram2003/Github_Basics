@@ -2,7 +2,7 @@
 <h1>MASTERING GITHUB</h1>
 <h2>FROM BASICS TO A STANDOUT PROFILE</h2>
 
-<p>This repository consists instructions and references to all the points mentioned in the <a src="">Crash Course on Github by the Odyssey Club.</a></p>
+<p>This repository consists instructions and references to all the points mentioned in the <a src="youtube.com">Crash Course on Github by the Odyssey Club.</a></p>
 
 <h2>Git and GitHub</h2>
 <p>Git and GitHub are two fundamental tools in the world of software development, often used together. Let's explore what each of them is:</p>
