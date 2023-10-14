@@ -2,7 +2,7 @@
 <h1>MASTERING GITHUB</h1>
 <h2>FROM BASICS TO A STANDOUT PROFILE</h2>
 
-<p>This repository consists instructions and references to all the points mentioned in the <a src="youtube.com">Crash Course on Github by the Odyssey Club.</a></p>
+<p>This repository consists instructions and references to all the points mentioned in the <a href="youtube.com">Crash Course on Github by the Odyssey Club.</a></p>
 
 <h2>Git and GitHub</h2>
 <p>Git and GitHub are two fundamental tools in the world of software development, often used together. Let's explore what each of them is:</p>
@@ -32,7 +32,7 @@
 <p>Developers use Git and GitHub in tandem to streamline development processes, enhance code quality, and support teamwork in software projects.</p>
 
 
-<a src="https://youtu.be/xLbmcMVtfKE?feature=shared">How to link your Github account to your local machine</a>
+<a href="https://youtu.be/xLbmcMVtfKE?feature=shared">How to link your Github account to your local machine</a>
 
 
 
@@ -60,10 +60,10 @@
 <br>
 <br>
 
-<a src="https://rahuldkjain.github.io/gh-profile-readme-generator/">Generate your own README file here</a>
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Generate your own README file here</a>
 
 
-<a src="https://youtu.be/G-EGDH50hGE?si=OAysVJubR8YZt4eS">How to generate a creative README for your profile</a>
+<a href="https://youtu.be/G-EGDH50hGE?si=OAysVJubR8YZt4eS">How to generate a creative README for your profile</a>
 
 <p>Inserting a Gif into Profile:</p>
 
@@ -77,7 +77,7 @@
 <br>
 
 <p>Feel free to reference and connect with us through our GitHub profiles, provided below for your convenience.</p>
-<p><strong>Dharshan's Github:</strong> <a>github.com/iDharshan</a></p>
-<p><strong>Tejasram's Github:</strong> <a>github.com/tejasram2003</a></p>
+<p><strong>Dharshan's Github:</strong> <a href="github.com/iDharshan">github.com/iDharshan</a></p>
+<p><strong>Tejasram's Github:</strong> <a href="github.com/tejasram2003">github.com/tejasram2003</a></p>
 
 </body>
